@@ -1,0 +1,56 @@
+11:39:17.806 [main] INFO  api.tests.UserTests - *****Creating user*****
+11:39:21.184 [main] INFO  api.tests.UserTests - *****User is Created*****
+11:39:21.199 [main] INFO  api.tests.UserTests - *****Reading User*****
+11:39:22.701 [main] INFO  api.tests.UserTests - *****User Displayed*****
+11:39:22.704 [main] INFO  api.tests.UserTests - *****Updating user*****
+11:39:23.856 [main] INFO  api.tests.UserTests - *****User is updated*****
+11:39:25.000 [main] INFO  api.tests.UserTests - *****Deleteing user*****
+11:39:26.535 [main] INFO  api.tests.UserTests - *****User Deleted*****
+18:57:54.398 [main] INFO  api.tests.UserTests - *****Creating user*****
+18:57:57.970 [main] INFO  api.tests.UserTests - *****User is Created*****
+18:57:57.984 [main] INFO  api.tests.UserTests - *****Reading User*****
+18:57:59.276 [main] INFO  api.tests.UserTests - *****User Displayed*****
+18:57:59.286 [main] INFO  api.tests.UserTests - *****Updating user*****
+18:58:00.672 [main] INFO  api.tests.UserTests - *****User is updated*****
+18:58:01.940 [main] INFO  api.tests.UserTests - *****Deleteing user*****
+18:58:03.311 [main] INFO  api.tests.UserTests - *****User Deleted*****
+18:58:03.432 [main] INFO  api.tests.UserTests_fromProperties - *****Creating user*****
+18:58:04.633 [main] INFO  api.tests.UserTests_fromProperties - *****User is Created*****
+18:58:04.639 [main] INFO  api.tests.UserTests_fromProperties - *****Reading User*****
+18:58:05.804 [main] INFO  api.tests.UserTests_fromProperties - *****User Displayed*****
+18:58:05.811 [main] INFO  api.tests.UserTests_fromProperties - *****Updating user*****
+18:58:07.267 [main] INFO  api.tests.UserTests_fromProperties - *****User is updated*****
+18:58:08.433 [main] INFO  api.tests.UserTests_fromProperties - *****Deleteing user*****
+18:58:09.628 [main] INFO  api.tests.UserTests_fromProperties - *****User Deleted*****
+19:17:16.011 [main] INFO  api.tests.UserTests - *****Creating user*****
+19:17:19.079 [main] INFO  api.tests.UserTests - *****User is Created*****
+19:17:19.099 [main] INFO  api.tests.UserTests - *****Reading User*****
+19:17:20.521 [main] INFO  api.tests.UserTests - *****User Displayed*****
+19:17:20.526 [main] INFO  api.tests.UserTests - *****Updating user*****
+19:17:22.039 [main] INFO  api.tests.UserTests - *****User is updated*****
+19:17:23.511 [main] INFO  api.tests.UserTests - *****Deleteing user*****
+19:17:24.926 [main] INFO  api.tests.UserTests - *****User Deleted*****
+19:17:25.021 [main] INFO  api.tests.UserTests_fromProperties - *****Creating user*****
+19:17:26.358 [main] INFO  api.tests.UserTests_fromProperties - *****User is Created*****
+19:17:26.361 [main] INFO  api.tests.UserTests_fromProperties - *****Reading User*****
+19:17:27.580 [main] INFO  api.tests.UserTests_fromProperties - *****User Displayed*****
+19:17:27.585 [main] INFO  api.tests.UserTests_fromProperties - *****Updating user*****
+19:17:28.841 [main] INFO  api.tests.UserTests_fromProperties - *****User is updated*****
+19:17:30.067 [main] INFO  api.tests.UserTests_fromProperties - *****Deleteing user*****
+19:17:31.256 [main] INFO  api.tests.UserTests_fromProperties - *****User Deleted*****
+12:07:33.502 [main] INFO  api.tests.UserTests - *****Creating user*****
+12:07:36.880 [main] INFO  api.tests.UserTests - *****User is Created*****
+12:07:36.895 [main] INFO  api.tests.UserTests - *****Reading User*****
+12:07:38.342 [main] INFO  api.tests.UserTests - *****User Displayed*****
+12:07:38.348 [main] INFO  api.tests.UserTests - *****Updating user*****
+12:07:39.581 [main] INFO  api.tests.UserTests - *****User is updated*****
+12:07:40.813 [main] INFO  api.tests.UserTests - *****Deleteing user*****
+12:07:42.124 [main] INFO  api.tests.UserTests - *****User Deleted*****
+12:07:42.238 [main] INFO  api.tests.UserTests_fromProperties - *****Creating user*****
+12:07:43.468 [main] INFO  api.tests.UserTests_fromProperties - *****User is Created*****
+12:07:43.472 [main] INFO  api.tests.UserTests_fromProperties - *****Reading User*****
+12:07:45.029 [main] INFO  api.tests.UserTests_fromProperties - *****User Displayed*****
+12:07:45.035 [main] INFO  api.tests.UserTests_fromProperties - *****Updating user*****
+12:07:46.386 [main] INFO  api.tests.UserTests_fromProperties - *****User is updated*****
+12:07:47.809 [main] INFO  api.tests.UserTests_fromProperties - *****Deleteing user*****
+12:07:49.040 [main] INFO  api.tests.UserTests_fromProperties - *****User Deleted*****
